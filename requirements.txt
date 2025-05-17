@@ -1,0 +1,13 @@
+streamlit
+sentence-transformers
+faiss-cpu
+pandas
+numpy
+torch
+transformers
+tqdm
+Pillow
+scikit-learn
+matplotlib
+seaborn
+RapidFuzz 
